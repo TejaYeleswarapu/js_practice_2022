@@ -7,7 +7,7 @@ var gender = "Male";
 var maritalStatus = "Single";
 var phoneNumber = 8897062239;
 var jobDescription = "I am a Process Associate";
-var address = "dispur";
+var address = "assam";
 
 console.log(jobDescription);
 console.log(name);
