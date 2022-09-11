@@ -1,19 +1,9 @@
-var name = "Teja Yeleswarapu";
-var email = "teja.yeleswarapu@gmail.com";
-var bDate = 18;
-var bMonth = 12;
-var bYear = 1997;
-var gender = "Male";
-var maritalStatus = "Single";
-var phoneNumber = 8897062239;
-var jobDescription = "I am a Process Associate";
-var address = "assam";
-
-console.log(name);
-console.log(email);
-console.log(bDate+"/"+bMonth+"/"+bYear);
-console.log(gender);
-console.log(maritalStatus);
-console.log(phoneNumber);
-console.log(jobDescription);
-console.log(address);
+let age = 15;
+    ssc_score = 970;
+    inter_score = 910;
+    degree_score = 1650;
+if (age <= 14 || ssc_score <=900  ||  inter_score<= 850 || degree_score <= 1500) {
+console.log ("You are not eligible for the course");
+} else {
+  console.log ("You are eligible for the course");
+}
